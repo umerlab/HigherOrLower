@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Higher or Lower</string>
+    <string name="topmost_title">I am thinking of a number between 1 and 20</string>
+    <string name="second_title">Can you guess it?</string>
+    <string name="enter_a_number_title">Enter a number here</string>
+    <string name="btnGuess_title">Guess</string>
+    <string name="result_title"></string>
+    <string name="btnReset_title">Reset</string>
+</resources>
